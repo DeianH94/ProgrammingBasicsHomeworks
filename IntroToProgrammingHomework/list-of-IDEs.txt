@@ -1,0 +1,29 @@
+Eclipse
+Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible 
+plug-in system for customizing the environment. Eclipse is written mostly in Java and its primary use 
+is for developing Java applications, but it may also be used to develop applications in other programming 
+languages through the use of plugins. Eclipse SDK is free and open source software.
+
+NetBeans
+NetBeans is a software development platform written in Java. The NetBeans Platform allows applications 
+to be developed from a set of modular software components called modules. The NetBeans IDE is primarily 
+intended for development in Java, but also supports other languages, in particular PHP, C/C++ and HTML5.
+
+Android Studio
+Based on JetBrains' IntelliJ IDEA software, Android Studio is designed specifically for Android development. 
+Android Studio provides a number of improvements to assist in debugging and improving the performance 
+of your code, including an improved virtual device management, inline debugging, and performance analysis tools.
+
+CodeLite
+CodeLite is an open source, free, cross platform IDE specialized in C, C++, PHP and JavaScript 
+programming languages which runs best on all major Platforms. To comply with CodeLite's open source 
+spirit, the program itself is compiled and debugged using only free tools (MinGW and GDB) for Mac OS X, 
+Windows, Linux and FreeBSD, though CodeLite can execute any third-party compiler or tool that has a 
+command-line interface.
+
+Komodo
+Komodo IDE is an IDE for dynamic programming languages. It was introduced in May 2000. Komodo IDE uses 
+the Mozilla and Scintilla code base as they share many features and support the same languages (including 
+Python, Perl, PHP, Ruby, Tcl, SQL, Smarty, CSS, HTML and XML). Komodo IDE has an open-source counterpart 
+called Komodo Edit. Both share much of the same code base, Komodo IDE containing the more advanced IDE 
+features such as debugging, unit testing, etc.

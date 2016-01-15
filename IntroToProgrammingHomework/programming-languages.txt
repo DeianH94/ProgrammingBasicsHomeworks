@@ -1,0 +1,25 @@
+C
+C was created to provide a structural programming language that is easier to use than assembly. It is considered 
+a low-level programming language with little to no loss in performance relative to assembly. C is a relatively 
+small language (in terms of keywords etc). It does not support object orriented code. Thus no classes.
+
+C++
+C++ is essentially an extension of C. The original C++ compilers just pre-compiled directly into C, which was 
+then compiled to machine code, while modern C++ compilers can easily compile C or C++ into machine code.  C++ 
+was designed to allow developers to use all of the existing features of C but provides a number of extensions 
+to support object-oriented programming techniques in an intermediate-level programming language.
+
+Java
+Both C# and Java are designed from the ground up as object-oriented languages. Both languages are considered 
+"curly brace" languages in the C/C++ family. Overall the syntaxes of the languages are very similar. The 
+syntax at the statement and expression level is almost identical with obvious inspiration from the C/C++ tradition.
+
+Python
+Python is easier to learn. It has open source libraries. Python doesn't support multithreading and it has bat 
+garbage collection. C# is available only on Windows while Python is cross platform.
+
+VisualBasic
+Though C# and VisualBasic are syntactically very different, that is where the differences mostly end. Microsoft 
+developed both of these languages to be part of the same .NET Framework development platform. They are both 
+developed, managed, and supported by the same language development team at Microsoft. They compile to the same 
+intermediate language, which runs against the same .NET Framework runtime libraries.
